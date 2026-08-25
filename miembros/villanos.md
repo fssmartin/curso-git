@@ -5,6 +5,7 @@
 3. Brainiac
 4. Pepe
 5. Marta
+6. DarkSeid
 
 # Notas 
 
