@@ -15,14 +15,11 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
-<<<<<<< Updated upstream
 📄 nuevas-misiones.yaml    → Esta glogal de las nuevas misiones
-=======
 📄 README.mf        → Docu principal del repo
->>>>>>> Stashed changes
 ```
 
-## El Consejo de Villanos
+## El Consejo de Villanos !!
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
