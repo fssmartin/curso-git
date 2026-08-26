@@ -1,3 +1,11 @@
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-blue)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/fssmartin/curso-git/ci.yml)
+![Release](https://img.shields.io/github/v/release/fssmartin/curso-git)
+![Issues](https://img.shields.io/github/issues/fssmartin/curso-git)
+![Último commit](https://img.shields.io/github/last-commit/fssmartin/curso-git)
+![Licencia](https://img.shields.io/github/license/fssmartin/curso-git?cacheSeconds=60)
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
