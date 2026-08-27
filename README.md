@@ -6,9 +6,7 @@
 ![Último commit](https://img.shields.io/github/last-commit/fssmartin/curso-git)
 ![Licencia](https://img.shields.io/github/license/fssmartin/curso-git?cacheSeconds=60)
 
-# 🦹‍♂️ La Legión del Mal de todos los males DESDE REMOTOOO !!
-y
-# 🦹‍♂️ La Legión del Mal de todos los males Dede local !!
+# 🦹‍♂️ La Legión del Mal PARA VERNOS MATAO !!
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
