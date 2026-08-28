@@ -7,7 +7,7 @@
 
 ---
 
-## Habilidades confirmadas
+## Habilidades confirmadas cambio LOCAL
 
 - Detective de nivel sobrehumano (el mejor del mundo, según Brainiac)
 - Artes marciales: domina 127 estilos de combate

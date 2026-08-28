@@ -7,7 +7,7 @@
 
 ---
 
-## Habilidades confirmadas
+## Habilidades confirmadas CAMBIO LOCAL
 
 - Genio inventor y multimillonario (rival de Lex en ambos campos)
 - Armaduras con capacidad de vuelo, fuerza aumentada y arsenal integrado
