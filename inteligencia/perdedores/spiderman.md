@@ -7,3 +7,14 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 - Doctor Octopus
 - Green Goblin
 
+
+## Películas
+
+- Spiderman: No way home
+- Spiderman: Far from home
+- Spiderman: Into the spider-verse
+- Spiderman: Homecoming
+- Spiderman: No way home
+- Spiderman 1
+- Spiderman 2
+- Spiderman 3
