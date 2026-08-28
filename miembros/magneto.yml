@@ -2,16 +2,16 @@
 # FICHA DE VILLANO - LEGIÓN DEL MAL
 # =============================================
 
-nombre: "Magneto"
-nombre_real: "Erik Lehnsherr"
+nombre: 'Magneto'
+nombre_real: 'Erik Lehnsherr'
 universo: Marvel
-rango: "Segundo al mando"
-estado: activo
+rango: 'Segundo al mando'
+estado: inactivo
 
 perfil:
-  identidad_publica: "Líder del movimiento mutante. Buscado internacionalmente."
-  motivacion: "Asegurar la supervivencia y supremacía de los mutantes. Si para eso hay que derribar a los héroes y a los gobiernos, que así sea."
-  frase_celebre: "La paz nunca fue una opción."
+  identidad_publica: 'Líder del movimiento mutante. Buscado internacionalmente.'
+  motivacion: 'Asegurar la supervivencia y supremacía de los mutantes. Si para eso hay que derribar a los héroes y a los gobiernos, que así sea.'
+  frase_celebre: 'La paz nunca fue una opción.'
 
 habilidades:
   - Control absoluto del magnetismo y campos electromagnéticos
@@ -41,8 +41,8 @@ rol_en_la_legion: |
   héroes de ambos universos unidos son demasiado para cualquier
   villano solo. "Hasta yo necesito aliados."
 
-rivalidad_principal: "X-Men (especialmente Charles Xavier)"
-guarida_asignada: "Fortaleza Prohibida"
+rivalidad_principal: 'X-Men (especialmente Charles Xavier)'
+guarida_asignada: 'Fortaleza Prohibida'
 misiones_completadas: 11
 misiones_fallidas: 2
 

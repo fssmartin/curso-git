@@ -1,4 +1,4 @@
-#notas 
+# Notas
 
 > [!NOTE]
 > Información útil para el lector.
@@ -8,23 +8,41 @@
 > Algo que requiere atención.
 
 
-🚀 🤭
+```ts
+const suma = (a, b) => a + b;
+console.log(suma(2, 3));
+```
+```python
+def saludar(nombre):
+  return f"Hola, {nombre}!"
+```
 
-- item
-  * item
 
+
+
+- [X] hecha
 - [ ] tarea
-- [x] hecha
+- [ ] tarea
+- [X] hecha
+- [ ] tarea
+- [X] hecha
+- [X] hecha
 
 
-**negrita** Texto en negrita
+- item 1
+- item 4
+- item 2
+- item 3
 
-*cursiva* Texto en cursiva
 
+**negrita** Texto en negrita.
 
-~tachado~~ Texto tachado
+*cursiva* Texto en cursiva.
 
-`código` Código en línea
+~~tachado~~ Texto tachado.
+
+`código` Código en línea dentro de una frase.
+
 
 # Título 1
 ## Título 2

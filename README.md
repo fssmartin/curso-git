@@ -75,8 +75,33 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 
 _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será castigado con severidad. Si tienes acceso a este repositorio, eres de los nuestros o Brainiac no está trabajando._
 
+## Contacto:
 
-## Contacto :
-- **asdasdasd 1:**
-- **asdasdasd 2:**
-- **asdasdasd 3:**
+- **Correo:**
+- **Discord:** [La Legión del Mal](https://discord.gg/legiondelmal)
+- **Telegram:** [@LegionDelMal](https://t.me/legiondelmal)
+- **Twitter:** [@LegionDelMal](https://twitter.com/LegionDelMal)
+- **Sitio web:** [www.legiondelmal.com](https://www.legiondelmal.com)
+
+---
+
+## 📊 Informe diario de Brainiac
+
+**Fecha:** 08 de August de 2026 - 14:40 UTC
+
+**Estado de operaciones:**
+- 📡 Sistemas de la Fortaleza Prohibida: ✅ En línea
+- 🌙 Base Lunar: ⚠️ Operativa con restricciones
+- 🛰️ Proyecto Glaciar-1: En desarrollo
+- 🧬 Proyecto Krypton: En planificación
+
+**Métricas del día:**
+- Escudo electromagnético de Magneto: 95% de capacidad
+- Drones de Brainiac activos: 18/20
+- Cobertura de vigilancia global: 100%
+
+**Inteligencia interceptada del día:**
+> There are 1,575 steps from the ground floor to the top of the Empire State building.
+
+_Informe generado automáticamente por Brainiac v12.0_
+_"Los datos no mienten. Los seres orgánicos sí."_
