@@ -29,4 +29,5 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 - Mary Jane Watson (esposa en algunas versiones)
 - Gwen Stacy (novia en algunas versiones)
 - Annie Parker (hija en algunas versiones)
-- Benjamin "Benjy" Parker (hijo en algunas versiones alternativas)
+- Benjamin "Benjy" Parker (hijo en algunas versiones alternativas).
+- OTRA PELI
