@@ -1,21 +1,17 @@
-![Estático](https://img.shields.io/badge/Legion--del--Mal-Última--Versión-blue)
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-blue)
 
-![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Workflow](https://img.shields.io/github/actions/workflow/status/fssmartin/curso-git/ci.yml)
+![Release](https://img.shields.io/github/v/release/fssmartin/curso-git)
+![Issues](https://img.shields.io/github/issues/fssmartin/curso-git)
+![Último commit](https://img.shields.io/github/last-commit/fssmartin/curso-git)
+![Licencia](https://img.shields.io/github/license/fssmartin/curso-git?cacheSeconds=60)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/klerithx2/legion-del-mal/ci.yml)
-![Release](https://img.shields.io/github/v/release/klerithx2/legion-del-mal)
-![Issues](https://img.shields.io/github/issues/klerithx2/legion-del-mal)
-![Último commit](https://img.shields.io/github/last-commit/klerithx2/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/klerithx2/legion-del-mal?cacheSeconds=60)
-
-# 🦹‍♂️ La Legión del Mal - Desde local
-
-### Es un grupo dedicado a aprender Git + GitHub
+# 🦹‍♂️ La Legión del Mal PARA VERNOS MATAO !!
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-## ¿Quiénes somos? - Desde remoto y local
+## ¿Quiénes somos??????????? -- REMOTO y local lalalalalaal
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
@@ -27,11 +23,10 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
 📄 misiones.yaml    → Estado global de todas las misiones
-📄 README.md      → Documentación principal del repositorio
-📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
-```
+📄 nuevas-misiones.yaml    → Esta glogal de las nuevas misiones
+📄 README.md        → Docu principal del repo
 
-## El Consejo de Villanos!!
+## El Consejo de Villanos !!
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
