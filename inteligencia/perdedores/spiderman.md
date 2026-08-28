@@ -18,3 +18,15 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 - Spiderman 1
 - Spiderman 2
 - Spiderman 3
+
+## Familiares
+
+- Tía May
+- Tío Ben
+- Richard Parker (padre)
+- Mary Parker (madre)
+- Teresa Parker (hermana)
+- Mary Jane Watson (esposa en algunas versiones)
+- Gwen Stacy (novia en algunas versiones)
+- Annie Parker (hija en algunas versiones)
+- Benjamin "Benjy" Parker (hijo en algunas versiones alternativas)
